@@ -1,0 +1,14 @@
+version=1
+id=2983332744
+title=House Fire Survivor
+description=A few days ago you narrowly survived the flaming inferno that used to be your home. You were covered head to toe in burns and have been bed ridden ever since. The hospital discharged you way sooner than normal because of some new virus that's spreading. From the window you can see people roaming the streets. Are they rioting or is something more sinister going on? It would probably be best to lay low while your body continues to heal.
+description=
+description=This mod aims to reintroduce the old behavior of the "Burn Ward Patient" trait from HypnoToadTrance's More Traits mod with no fear of fire. This mod works with or without More Traits by introducing a brand new trait, "House Fire Survivor". I've tested that both mods can be used at the same time and work in multiplayer. I've done my best to exactly replicate the previous behavior down to the 18 point trait value and the severity of the burns.
+description=
+description=Huge shout out to [url=https://steamcommunity.com/id/demiurgeQuantified]@albion[/url] for providing the sandbox code to change the trait price. Now starting covered in burns can be as valuable or detrimental as you want it to be.
+description=
+description=Future plans:
+description= - option to start with medical gown
+description= - option to randomize how many body parts are burned (rather than total coverage)
+tags=Build 41;Traits
+visibility=unlisted
