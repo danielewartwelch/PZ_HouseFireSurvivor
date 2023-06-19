@@ -1,4 +1,4 @@
---[[This program is borrowed with permission (PENDING) from Albion's mod Zombie Contagion 
+--[[This program is borrowed with permission from Albion's mod Zombie Contagion 
     which can be found here. https://steamcommunity.com/sharedfiles/filedetails/?id=2868937948
 
     This program is free software: you can redistribute it and/or modify
@@ -74,7 +74,5 @@ SandboxOptionsScreen.setSandboxVars = function(self)
 end
 
 Events.OnConnected.Add(updateTraitPrice)
-
---------------------------------
 
 
