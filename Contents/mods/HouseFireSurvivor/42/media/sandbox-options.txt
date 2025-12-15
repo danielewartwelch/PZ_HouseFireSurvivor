@@ -1,0 +1,11 @@
+VERSION = 1,
+
+option MoreTraits.HFSTraitCost
+{
+	type = integer, 
+	min = -99, 
+	max = 99, 
+	default = 18,
+	page = MoreTraits, 
+	translation = MoreTraits_HFSTraitCost,
+}
