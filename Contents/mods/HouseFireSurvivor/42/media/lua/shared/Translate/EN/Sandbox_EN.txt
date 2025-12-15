@@ -1,0 +1,5 @@
+Sandbox_EN = {
+	Sandbox_MoreTraits = "More Traits",
+	Sandbox_MoreTraits_HFSTraitCost = "House Fire Survivor Trait Cost",
+    Sandbox_MoreTraits_HFSTraitCost_tooltip = "Adjusts the trait point cost.",
+	}

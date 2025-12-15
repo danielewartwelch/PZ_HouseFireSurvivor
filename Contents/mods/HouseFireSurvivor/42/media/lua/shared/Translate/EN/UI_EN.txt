@@ -1,0 +1,4 @@
+UI_EN = {
+    UI_trait_house_fire_survivor = "House Fire Survivor",
+    UI_trait_house_fire_survivor_desc = "You're covered from head to toe in burns from a recent house fire.<br>Start fully burned and fully bandaged.",
+}
